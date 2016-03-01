@@ -1,0 +1,25 @@
+{
+  "name": "codepens",
+  "homepage": "https://github.com/abdulhannanali/codepens",
+  "authors": [
+    "Abdul Hannan Ali <abdulhannanali@outlook.com>"
+  ],
+  "description": "my code pens",
+  "main": "",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "codepens"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

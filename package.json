@@ -1,0 +1,20 @@
+{
+  "name": "codepens",
+  "version": "1.0.0",
+  "description": "A repository where all my front end pens are placed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulhannanali/codepens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulhannanali/codepens/issues"
+  },
+  "homepage": "https://github.com/abdulhannanali/codepens#readme"
+}
