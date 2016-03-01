@@ -9,13 +9,14 @@ Pen is a relatively simple project, showcasing something really good. It's what 
 
 The main goal is keeping this site simple and this should not be neglected in it's slightest sense, therefore it's necessary to keep the directory structure simple.
 
-A pen will contain of a directory having the following structure
+A pen will contain directory having the following structure
 
 - html file
 - css file
 - js file
+- any other files
 
-Personal dependencies will be placed in `deps` folder and the dependencies downloaded using `bower`, `npm` or any other will go into their own preferred directories such `node_modules` for npm packages.
+Pen's personal dependencies will be placed in `deps` folder and the dependencies downloaded using `bower`, `npm` or any other will go into their own preferred directories such `node_modules` for npm packages.
 
 #### LICENSE
 The pens in this repo are open sourced under ISC LICENSE. See [LICENSE](LICENSE) for more details.
