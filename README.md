@@ -19,7 +19,7 @@ A pen will contain directory having the following structure
 Pen's personal dependencies will be placed in `deps` folder and the dependencies downloaded using `bower`, `npm` or any other will go into their own preferred directories such `node_modules` for npm packages.
 
 #### List of Pens
-All the pens are listed in [PenList](PenList.md) or you can just browse the directory structure it's quite simple too
+All the pens are listed in [PensList](PenList.md) or you can just browse the directory structure it's quite simple too
 
 #### LICENSE
 The pens in this repo are open sourced under ISC LICENSE. See [LICENSE](LICENSE) for more details.
